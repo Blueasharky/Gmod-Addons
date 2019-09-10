@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/theastrix/mmmcake"
+	"$surfaceprop" "concrete"
+	$phong 1
+$phongboost 2
+$phongexponent 2
+$phongfresnelranges "[.6 1 2]"
+$basemapalphaphongmask 1
+$rimlight 1
+$rimlightexponent 2
+$rimlightboost 3
+}
