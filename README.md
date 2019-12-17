@@ -14,4 +14,6 @@ tnl_ and sn_ are scripts are properties exclusively owned by myself.
 
 mik_ are scripts are properties developed in co-op along side peers.
 
-Usage and rights regarding these files are described by LICENSE within the repo root.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Licensing of these works pertain exclusively to the code only. Any other form of media belongs to their respective owners as anotated within.
